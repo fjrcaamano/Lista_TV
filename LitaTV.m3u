@@ -1,128 +1,151 @@
 #EXTM3U
-
-#EXTINF:-1,[000] Movistar+ HD
-rtp://@239.0.5.185:8208
-#EXTINF:-1,[001] La 1 HD
-rtp://@239.0.0.185:8208
-#EXTINF:-1,[002] La 2 HD
-rtp://@239.0.0.183:8208
-#EXTINF:-1,[003] Antena 3 HD
-rtp://@239.0.0.186:8208
-#EXTINF:-1,[004] Cuatro HD
-rtp://@239.0.0.177:8208
-#EXTINF:-1,[005] Tele 5 HD
-rtp://@239.0.0.176:8208
-#EXTINF:-1,[006] La Sexta HD
-rtp://@239.0.0.187:8208
-#EXTINF:-1,[007] #0 HD {DRM}
-rtp://@239.0.5.187:8208
-#EXTINF:-1,[008] #Vamos HD {DRM}
-rtp://@239.0.5.197:8208
-
-#EXTINF:-1,[009] TeleMadrid HD *
-rtp://@239.0.0.181:8208
-
-#EXTINF:-1,[013] FOX HD {DRM}
-rtp://@239.0.9.134:8208
-#EXTINF:-1,[014] AXN HD {DRM}
-rtp://@239.0.9.131:8208
-#EXTINF:-1,[015] TNT HD {DRM}
-rtp://@239.0.5.87:8208
-#EXTINF:-1,[016] Comedy Central HD {DRM}
-rtp://@239.0.0.174:8208
-#EXTINF:-1,[017] Calle 13 HD {DRM}
-rtp://@239.0.5.74:8208
-#EXTINF:-1,[018] COSMO HD {DRM}
-rtp://@239.0.5.71:8208
-#EXTINF:-1,[019] AMC HD {DRM}
-rtp://@239.0.9.132:8208
-#EXTINF:-1,[020] FOX life HD {DRM}
-rtp://@239.0.0.165:8208
-#EXTINF:-1,[021] AXN White HD {DRM}
-rtp://@239.0.5.79:8208
-#EXTINF:-1,[022] Syfy HD {DRM}
-rtp://@239.0.5.75:8208
-#EXTINF:-1,[023] Movistar Crimen HD {DRM}
-rtp://@239.0.5.193:8208
-#EXTINF:-1,[026] Neox HD
-rtp://@239.0.5.207:8208
-#EXTINF:-1,[027] Atreseries HD
-rtp://@239.0.0.190:8208
-#EXTINF:-1,[037] TCM HD {DRM}
-rtp://@239.0.5.89:8208
-#EXTINF:-1,[038] Hollywood HD {DRM}
-rtp://@239.0.5.76:8208
-#EXTINF:-1,[039] Sundance Channel HD {DRM}
-rtp://@239.0.5.72:8208
-#EXTINF:-1,[044] DEPORTES HD
-rtp://@239.0.0.180:8208
-#EXTINF:-1,[045] #Vamos HD {DRM}
-rtp://@239.0.5.197:8208
-#EXTINF:-1,[061] Eurosport 1 HD {DRM}
-rtp://@239.0.9.135:8208
-#EXTINF:-1,[062] Eurosport 2 HD {DRM}
-rtp://@239.0.5.105:8208
-#EXTINF:-1,[063] GOL HD
-rtp://@239.0.5.189:8208
-#EXTINF:-1,[064] Teledeporte HD
-rtp://@239.0.0.188:8208
-#EXTINF:-1,[068] Real Madrid TV HD
-rtp://@239.0.0.179:8208
-#EXTINF:-1,[069] Barça TV HD {DRM}
-rtp://@239.0.5.199:8208
-#EXTINF:-1,[070] National Geographic HD {DRM}
-rtp://@239.0.5.78:8208
-#EXTINF:-1,[071] Nat Geo Wild HD {DRM}
-rtp://@239.0.9.136:8208
-#EXTINF:-1,[072] Historia HD {DRM}
-rtp://@239.0.0.166:8208
-#EXTINF:-1,[073] Discovery Channel HD {DRM}
-rtp://@239.0.5.77:8208
-#EXTINF:-1,[074] Odisea HD {DRM}
-rtp://@239.0.5.82:8208
-#EXTINF:-1,[076] Viajar HD {DRM}
-rtp://@239.0.5.73:8208
-#EXTINF:-1,[080] Canal Cocina HD {DRM}
-rtp://@239.0.0.169:8208
-#EXTINF:-1,[084] Nova HD
-rtp://@239.0.5.209:8208
-#EXTINF:-1,[085] MEGA HD
-rtp://@239.0.5.210:8208
-#EXTINF:-1,[086] BeMad HD
-rtp://@239.0.0.182:8208
-#EXTINF:-1,[088] UBEAT HD {DRM}
-rtp://@239.0.0.178:8208
-#EXTINF:-1,[091] Disney Junior HD {DRM}
-rtp://@239.0.5.181:8208
-#EXTINF:-1,[092] Canal Panda HD {DRM}
-rtp://@239.0.0.171:8208
-#EXTINF:-1,[093] Nick Jr HD {DRM}
-rtp://@239.0.0.167:8208
-#EXTINF:-1,[094] Nickelodeon HD {DRM}
-rtp://@239.0.5.204:8208
-#EXTINF:-1,[096] Disney Channel HD
-rtp://@239.0.0.173:8208
-#EXTINF:-1,[098] Clan TVE HD
-rtp://@239.0.0.184:8208
-#EXTINF:-1,[166] Movistar Eventos HD {DRM}
-rtp://@239.0.0.203:8208
-
-#EXTINF:-1, [011] Movistar Series HD {DRM}
-rtp://@239.0.5.250:8208
-#EXTINF:-1, [012] Movistar Seriesmanía HD {DRM}
-rtp://@239.0.5.83:8208
-
-#EXTINF:-1, [030] Movistar Estrenos HD {DRM}
-rtp://@239.0.5.111:8208
-#EXTINF:-1, [031] Movistar CineDoc&Roll HD {DRM}
-rtp://@239.0.5.112:8208
-#EXTINF:-1, [032] Disney+ HD {DRM}
-rtp://@239.0.5.208:8208
-#EXTINF:-1, [033] Movistar Acción HD {DRM}
-rtp://@239.0.5.113:8208
-#EXTINF:-1, [034] Movistar Comedia HD {DRM}
-rtp://@239.0.5.114:8208
-#EXTINF:-1, [035] Movistar Drama HD {DRM}
-rtp://@239.0.5.115:8208
-#EXTINF:-1, [036] Movistar Cine Español HD {DRM}
-rtp://@239.0.5.109:8208
+#EXTINF:-1,ES| TVE La1
+http://red.ipfox.org:8080/Karim2_534341/40036069/2507
+#EXTINF:-1,ES| TVE La2
+http://red.ipfox.org:8080/Karim2_534341/40036069/2506
+#EXTINF:-1,ES| AXN HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2577
+#EXTINF:-1,ES| AXN White
+http://red.ipfox.org:8080/Karim2_534341/40036069/2576
+#EXTINF:-1,ES| A&E HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2581
+#EXTINF:-1,ES| AMC HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2580
+#EXTINF:-1,ES| Movistar Golf
+http://red.ipfox.org:8080/Karim2_534341/40036069/2530
+#EXTINF:-1,ES| Movistar Series
+http://red.ipfox.org:8080/Karim2_534341/40036069/2529
+#EXTINF:-1,ES| Movistar Series Xtra
+http://red.ipfox.org:8080/Karim2_534341/40036069/2528
+#EXTINF:-1,ES| Movistar Comedia
+http://red.ipfox.org:8080/Karim2_534341/40036069/2534
+#EXTINF:-1,ES| Movistar Estrenos
+http://red.ipfox.org:8080/Karim2_534341/40036069/2531
+#EXTINF:-1,ES| Movistar Deportes 1
+http://red.ipfox.org:8080/Karim2_534341/40036069/2533
+#EXTINF:-1,ES| Movistar Deportes 2
+http://red.ipfox.org:8080/Karim2_534341/40036069/2532
+#EXTINF:-1,ES| Dcine HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2559
+#EXTINF:-1,ES| ACCION HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2582
+#EXTINF:-1,ES| TELE Cinco
+http://red.ipfox.org:8080/Karim2_534341/40036069/2512
+#EXTINF:-1,ES| Fox HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2549
+#EXTINF:-1,ES| Fox Life
+http://red.ipfox.org:8080/Karim2_534341/40036069/2548
+#EXTINF:-1,ES| SYFY HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2515
+#EXTINF:-1,ES| Sundance TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2516
+#EXTINF:-1,ES| Comedy Central
+http://red.ipfox.org:8080/Karim2_534341/40036069/2563
+#EXTINF:-1,ES| Paramount HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2518
+#EXTINF:-1,ES| Barca TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2574
+#EXTINF:-1,ES| Real Madrid TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2517
+#EXTINF:-1,ES| La Liga HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2539
+#EXTINF:-1,ES| Gol TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2545
+#EXTINF:-1,ES| Moto GP HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2536
+#EXTINF:-1,ES| Futbol HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2546
+#EXTINF:-1,ES|  beIN Sports HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2583
+#EXTINF:-1,ES| beIN La Liga HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2573
+#EXTINF:-1,ES| Formula 1 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2550
+#EXTINF:-1,ES| Disney XD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2554
+#EXTINF:-1,ES| Disney Junior
+http://red.ipfox.org:8080/Karim2_534341/40036069/2555
+#EXTINF:-1,ES| Disney Channel
+http://red.ipfox.org:8080/Karim2_534341/40036069/2556
+#EXTINF:-1,ES| Boing HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2572
+#EXTINF:-1,ES| Baby TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2575
+#EXTINF:-1,ES| Nick Jr
+http://red.ipfox.org:8080/Karim2_534341/40036069/2521
+#EXTINF:-1,ES| Clan TVE
+http://red.ipfox.org:8080/Karim2_534341/40036069/2565
+#EXTINF:-1,ES| Caza y Pesca
+http://red.ipfox.org:8080/Karim2_534341/40036069/2566
+#EXTINF:-1,ES| Canal sur A
+http://red.ipfox.org:8080/Karim2_534341/40036069/2567
+#EXTINF:-1,ES| Canal Panda
+http://red.ipfox.org:8080/Karim2_534341/40036069/2568
+#EXTINF:-1,ES| Canal Cocina
+http://red.ipfox.org:8080/Karim2_534341/40036069/2569
+#EXTINF:-1,ES| Canal 24 Horas
+http://red.ipfox.org:8080/Karim2_534341/40036069/2570
+#EXTINF:-1,ES| Calle 13
+http://red.ipfox.org:8080/Karim2_534341/40036069/2571
+#EXTINF:-1,ES| Viajar HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2503
+#EXTINF:-1,ES| Toros TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2508
+#EXTINF:-1,ES| TNT HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2509
+#EXTINF:-1,ES| Tele Sur
+http://red.ipfox.org:8080/Karim2_534341/40036069/2510
+#EXTINF:-1,ES| TELE Deporte
+http://red.ipfox.org:8080/Karim2_534341/40036069/2511
+#EXTINF:-1,ES| TCM HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2513
+#EXTINF:-1,ES| Odisea HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2519
+#EXTINF:-1,ES| Neox HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2523
+#EXTINF:-1,ES| Nova Spain
+http://red.ipfox.org:8080/Karim2_534341/40036069/2520
+#EXTINF:-1,ES| Discovery Channel
+http://red.ipfox.org:8080/Karim2_534341/40036069/2557
+#EXTINF:-1,ES| Nat Geo Wild
+http://red.ipfox.org:8080/Karim2_534341/40036069/2524
+#EXTINF:-1,ES| Nat Geo HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2525
+#EXTINF:-1,ES| MTV HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2527
+#EXTINF:-1,ES| Aragon TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2578
+#EXTINF:-1,ES| Antena 3 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2579
+#EXTINF:-1,ES| Mezzo Live HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2537
+#EXTINF:-1,ES| La Sexta HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2538
+#EXTINF:-1,ES| Iberalia TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2540
+#EXTINF:-1,ES| I24 NEWS
+http://red.ipfox.org:8080/Karim2_534341/40036069/2541
+#EXTINF:-1,ES| Hollywood HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2542
+#EXTINF:-1,ES| Historia HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2543
+#EXTINF:-1,ES| Hash 0 HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2544
+#EXTINF:-1,ES| Factoria de Ficcion
+http://red.ipfox.org:8080/Karim2_534341/40036069/2551
+#EXTINF:-1,ES| Energy HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2552
+#EXTINF:-1,ES| Fox News
+http://red.ipfox.org:8080/Karim2_534341/40036069/2547
+#EXTINF:-1,ES| Divinity HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2553
+#EXTINF:-1,ES| Decasa HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2558
+#EXTINF:-1,ES| Cuatro HD
+http://red.ipfox.org:8080/Karim2_534341/40036069/2560
+#EXTINF:-1,ES| Crimen Investigacion
+http://red.ipfox.org:8080/Karim2_534341/40036069/2561
+#EXTINF:-1,ES| Cosmopolitan TV
+http://red.ipfox.org:8080/Karim2_534341/40036069/2562
+#EXTINF:-1,ES| Classica Europe
+http://red.ipfox.org:8080/Karim2_534341/40036069/2564
